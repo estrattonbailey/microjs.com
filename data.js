@@ -5095,5 +5095,21 @@ module.exports = [
     description: "A tiny JavaScript framework",
     url: "https://microtk.io",
     source: "https://cdn.rawgit.com/microTK/microTK/master/dist/microTK.js"
+  },
+  {
+    name: "overunder",
+    github: "estrattonbailey/overunder",
+    tags:["waypoints","resize","container queries","sticky","scroll"],
+    description: "A small waypoint library that emits events when you scroll to a specific element(s), or resize to a specified width. 2.68kb gzipped.",
+    url: "https://estrattonbailey.github.io/overunder/",
+    source: "https://raw.githubusercontent.com/estrattonbailey/overunder/master/index.js"
+  },
+  {
+    name: "micro-jsonp",
+    github: "estrattonbailey/micro-jsonp",
+    tags:["jsonp","ajax","form","submission"],
+    description: "A hyper-minimal standalone JSONp implementation in ES6.",
+    url: "https://github.com/estrattonbailey/micro-jsonp",
+    source: "https://raw.githubusercontent.com/estrattonbailey/micro-jsonp/master/index.js"
   }
 ];
